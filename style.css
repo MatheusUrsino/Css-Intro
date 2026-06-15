@@ -1,0 +1,28 @@
+body
+{
+    background-color: #9bed93;
+}
+
+h1
+{
+    color: #8817e4;
+    font-size: 36px;
+    margin-bottom: 20px;
+}
+
+h2
+{
+    color: #9bed93;
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+section
+{
+    background-color: #8817e472;
+    padding: 20px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    justify-content: center;
+    align-items: center;
+    
+}
